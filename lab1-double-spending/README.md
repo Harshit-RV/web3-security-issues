@@ -1,4 +1,4 @@
-# Lab 2: Exploiting Double-Spending in GameFi
+# Exploiting Double-Spending in GameFi
 
 ## Overview
 

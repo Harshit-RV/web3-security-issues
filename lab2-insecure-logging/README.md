@@ -1,4 +1,4 @@
-# Lab 3: Insecure Logging in Web3 App
+# Insecure Logging in Web3 App
 
 ## Overview
 
